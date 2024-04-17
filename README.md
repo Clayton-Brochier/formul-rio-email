@@ -13,7 +13,7 @@ Clone o repositório para o seu ambiente local:
 
 bash
 Copy code
-git clone https://github.com/Clayton-Brochier/nome-do-repositorio.git
+git clone https://github.com/Clayton-Brochier/formul-rio-email.git
 Abra o arquivo index.html em seu navegador web.
 
 Preencha o formulário com dados fictícios para testar a validação.
